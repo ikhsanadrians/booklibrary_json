@@ -1,0 +1,185 @@
+{
+ "buku" : 
+ [
+
+
+      {
+           "nama_buku" : "Aksi Massa",
+           "penulis"   : "Tan Malaka",
+           "kategori"  : "Filsafat Politik",
+           "tahun"     : 1926,
+           "gambar"    : "aksimassa.jpg"
+
+      } ,
+      {
+        "nama_buku" : "Orang-Orang Di Persimpangan Kiri Jalan",
+        "penulis"   : "Soe Hok Gie",
+        "kategori"  : "Filsafat Politik",
+        "tahun"     : 1968 , 
+        "gambar"    : "Gie_orangkiri.jpg"
+  
+       } ,
+
+       {
+        "nama_buku" : "Hujan Bulan Juni",
+        "penulis"   : "Sapardi Djoko Damono",
+        "kategori"  : "Sastra Puisi",
+        "tahun"     : 1994, 
+        "gambar"    : "sapardijoko.jpg"
+  
+       } ,
+
+       {
+        "nama_buku" : "Madilog",
+        "penulis"   : "Tan Malaka",
+        "kategori"  : "Filsafat Politik",
+        "tahun"     : 1931 , 
+        "gambar"    : "madilog.jpg"
+  
+       } ,
+
+       {
+        "nama_buku" : "Pengantar Ilmu Politik",
+        "penulis"   : "Prof Dr Yusayadi M.SosP PHD",
+        "kategori"  : "Politik",
+        "tahun"     : 2004 , 
+        "gambar"    : "pengantarilpol.jpg"
+  
+       } ,
+
+       {
+        "nama_buku" : "Pemikiran Karl Marx",
+        "penulis"   : "Prof Dr Franz Magnis Suseno M.HUM m.SC",
+        "kategori"  : "Sejarah Politik",
+        "tahun"     : 2010 , 
+        "gambar"    : "karlmarx.jpg"
+  
+       } ,
+
+       {
+        "nama_buku" : "Pengantar Ilmu Sejarah",
+        "penulis"   : "CH V Langlois",
+        "kategori"  : "Sejarah Pengantar",
+        "tahun"     : 2014 , 
+        "gambar"    : "sejarag.jpg"
+       } ,
+{
+        "nama_buku" : "Soekarno",
+        "penulis"   : "Adji Nugroho S.IP",
+        "kategori"  : "Biografi",
+        "tahun"     :  2016 , 
+        "gambar"    : "soekarno.jpg"
+        
+}
+,
+{
+    "nama_buku" : "Sebuah Seni Untuk Bersikap Bodo Amat",
+    "penulis"   : "Mark Manson",
+    "kategori"  : "Psikologi",
+    "tahun"     :  2016 , 
+    "gambar"    : "bodoamat.jpg"
+    
+}
+,
+{
+    "nama_buku" : "Negeri Para Bebedah",
+    "penulis"   : "Tere Liye",
+    "kategori"  : "Novel",
+    "tahun"     :  2015 , 
+    "gambar"    : "negeri.jpg"
+    
+}
+,
+{
+    "nama_buku" : "Dilan 1990",
+    "penulis"   : "Pidi Baiq",
+    "kategori"  : "Novel",
+    "tahun"     :  2014 , 
+    "gambar"    : "dilan.jpg"
+    
+}
+,
+{
+    "nama_buku" : "Bumi Manusia",
+    "penulis"   : "Pramoedya Ananta Toer",
+    "kategori"  : "Novel",
+    "tahun"     :  1980 , 
+    "gambar"    : "bumimanusia.jpg"
+    
+}
+,
+{
+    "nama_buku" : "Laskar Pelangi",
+    "penulis"   : "Andrea Hirata",
+    "kategori"  : "Novel",
+    "tahun"     :  2012 , 
+    "gambar"    : "laskarpelangi.jpg"
+    
+}
+,
+{
+    "nama_buku" : "5cm",
+    "penulis"   : "Donny Dirgantara",
+    "kategori"  : "Novel",
+    "tahun"     :  2012 , 
+    "gambar"    : "buku5cm.jpg"
+    
+}
+,
+{
+    "nama_buku" : "Sejarah Dunia Yang Disembunyikan",
+    "penulis"   : "Jonathan Black",
+    "kategori"  : "Sejarah Ilmiah",
+    "tahun"     :  2006 , 
+    "gambar"    : "sejarahdunia.jpg"
+    
+},
+{
+    "nama_buku" : "Catatan Juang",
+    "penulis"   : "Fiersa Besari",
+    "kategori"  : "Novel",
+    "tahun"     :  2014 , 
+    "gambar"    : "catatanjuang.jpg"
+    
+},
+
+{
+    "nama_buku" : "Konspirasi Alam Semesta",
+    "penulis"   : "Fiersa Besari",
+    "kategori"  : "Novel",
+    "tahun"     :  2018 , 
+    "gambar"    : "images.jpg"
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ]
+  
+
+
+
+
+
+}
